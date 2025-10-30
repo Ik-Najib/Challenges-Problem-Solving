@@ -8,4 +8,5 @@ if (i == "a" || i == "e" || i == "o" || i == "i" || i == "u" ){
     count++
 }
 }
+
 console.log(count)

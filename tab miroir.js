@@ -4,4 +4,5 @@ let revarr = [...arr].reverse()
 for (let i of revarr){
     arr.push(i)
 }
+
 console.log(arr)

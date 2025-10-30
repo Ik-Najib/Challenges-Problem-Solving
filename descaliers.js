@@ -7,4 +7,5 @@ for (let i = 2; i <= n; i++){
     y = x
     x = steps
 }
+
 console.log(x)
